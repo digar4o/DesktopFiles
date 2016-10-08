@@ -1,0 +1,1 @@
+These are my xmonad config files for backup purposes. Feel free to use and modify as you wish. xmonad.hs contains an automatic display configuration based on connected monitors - for use with laptops.
