@@ -1,0 +1,65 @@
+sw_volume: 50
+audio_device_state:1:MPD ALSA
+audio_device_state:1:my_fifo
+state: pause
+current: 24
+time: 0.557000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:REM/Out Of Time/R.E.M. - Out Of Time - 01. Radio Song.flac
+1:REM/Out Of Time/R.E.M. - Out Of Time - 02. Losing My Religion.flac
+2:REM/Out Of Time/R.E.M. - Out Of Time - 03. Low.flac
+3:REM/Out Of Time/R.E.M. - Out Of Time - 04. Near Wild Heaven.flac
+4:REM/Out Of Time/R.E.M. - Out Of Time - 05. Endgame.flac
+5:REM/Out Of Time/R.E.M. - Out Of Time - 06. Shiny Happy People.flac
+6:REM/Out Of Time/R.E.M. - Out Of Time - 07. Belong.flac
+7:REM/Out Of Time/R.E.M. - Out Of Time - 08. Half A World Away.flac
+8:REM/Out Of Time/R.E.M. - Out Of Time - 09. Texarkana.flac
+9:REM/Out Of Time/R.E.M. - Out Of Time - 10. Country Feedback.flac
+10:REM/Out Of Time/R.E.M. - Out Of Time - 11. Me In Honey.flac
+11:REM/Out Of Time/R.E.M. - Out Of Time - 03. Low.flac
+12:REM/Out Of Time/R.E.M. - Out Of Time - 04. Near Wild Heaven.flac
+13:REM/Automatic/01. R.E.M. - Drive.flac
+14:REM/Automatic/01. R.E.M. - Drive.flac
+15:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+16:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+17:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+18:REM/Automatic/01. R.E.M. - Drive.flac
+19:REM/Automatic/01. R.E.M. - Drive.flac
+20:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+21:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+22:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+23:REM/Automatic/07. R.E.M. - Monty Got A Raw Deal.flac
+24:REM/Automatic/07. R.E.M. - Monty Got A Raw Deal.flac
+25:REM/Automatic/02. R.E.M. - Try Not To Breathe.flac
+26:REM/Automatic/02. R.E.M. - Try Not To Breathe.flac
+27:REM/Automatic/02. R.E.M. - Try Not To Breathe.flac
+28:REM/Automatic/01. R.E.M. - Drive.flac
+29:REM/Automatic/07. R.E.M. - Monty Got A Raw Deal.flac
+30:REM/Automatic/03. R.E.M. - The Sidewinder Sleeps Tonite.flac
+31:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+32:REM/Automatic/05. R.E.M. - New Orleans Instrumental No. 1.flac
+33:REM/Automatic/10. R.E.M. - Man On The Moon.flac
+34:REM/Automatic/10. R.E.M. - Man On The Moon.flac
+35:REM/REM - Green 1988/R.E.M. - 07. Orange Crush.flac
+36:REM/REM - Green 1988/R.E.M. - 07. Orange Crush.flac
+37:REM/REM - Eponymous 1988/10. R.E.M. - The One I Love.flac
+38:REM/REM - Document 1987/R.E.M. - Document - 07. The One I Love.flac
+39:REM/REM - Eponymous 1988/10. R.E.M. - The One I Love.flac
+40:REM/REM - Document 1987/R.E.M. - Document - 07. The One I Love.flac
+41:REM/REM - Eponymous 1988/10. R.E.M. - The One I Love.flac
+42:REM/REM - Eponymous 1988/10. R.E.M. - The One I Love.flac
+43:REM/REM - Eponymous 1988/12. R.E.M. - Its The End Of The World As We Know It (And I Feel Fine).flac
+44:REM/Automatic/10. R.E.M. - Man On The Moon.flac
+45:REM/Automatic/11. R.E.M. - Nightswimming.flac
+46:REM/Automatic/01. R.E.M. - Drive.flac
+47:REM/Automatic/04. R.E.M. - Everybody Hurts.flac
+48:REM/Automatic/10. R.E.M. - Man On The Moon.flac
+49:REM/REM - Reckoning (MFSL) 1984/03 - Southern Central Rain (I'm Sorry).flac
+playlist_end
