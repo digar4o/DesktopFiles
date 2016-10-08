@@ -1,0 +1,22 @@
+#include "/home/martinr/.colors/s3r0"
+
+
+!urxvt*font: -*-neep-medium-r-semicondensed-*-11-*-*-*-*-*-*-*
+!urxvt*boldFont: -*-neep-medium-r-semicondensed-*-11-*-*-*-*-*-*-*
+!urxvt*italicFont: -*-neep-medium-r-semicondensed-*-11-*-*-*-*-*-*-*
+!urxvt*bolditalicFont:-*-neep-medium-r-semicondensed-*-11-*-*-*-*-*-*-*
+!urxvt*fading: 			10
+!urxvt*fadeColor: 		#000000	
+!urxvt*cursorBlink:		true
+!urxvt*scrollBar:		false 
+!urxvt*internalBorder: 		5
+!urxvt*dynamicColors: on
+!urxvt.urgentOnBell:  true
+
+
+URxvt.scrollstyle: plain                                                                                                                                                           
+URxvt.scrollBar: false
+
+urxvt*depth: 32
+urxvt*internalBorders: 10
+urxvt*background: rgba:0000/0000/0200/c800
